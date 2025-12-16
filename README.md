@@ -4,4 +4,6 @@
 - [Lesson 2: CNN and RNN for NLP](lesson2/)
 - [Lesson 3: Transformers](lesson3/)
 - [Lesson 4: Question Answering Systems](lesson4/)
+- [Lesson 5: Summarization and Translation](lesson5/)
+- [Lesson 6: Deep learning in Audio](lesson6/)
 
